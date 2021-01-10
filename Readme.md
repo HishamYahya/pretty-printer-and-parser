@@ -1,5 +1,3 @@
-# Summative Exercise
-
 Exercise for COMP26020 (PL & Paradigms).
 
 ### Brief Instructions
